@@ -5,6 +5,14 @@
 //  Created by 山田啓太 on 2023/01/08.
 //
 
+/**
+AtCoder　2023.01.17の解説からの模範解答
+Author    https://atcoder.jp/users/Nyaan 
+
+For my TextBook
+*/
+
+
 #include <iostream>
 #include <vector>
 using namespace std;
